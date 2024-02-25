@@ -8,6 +8,14 @@ Please note that fakeFetcher returns same dataset everytime.
 MUI for basic styling, TanstackQuery for server side state management and Zod for validation of
 filters and fake API response.
 
+### Screenshots
+
+<img width="1680" alt="Screenshot 2024-02-25 at 06 12 35" src="https://github.com/mohsin1993/cargo-one/assets/12693436/aff3bd75-50b5-47a1-b085-7ad645d83b67">
+
+<img width="1680" alt="Screenshot 2024-02-25 at 06 12 18" src="https://github.com/mohsin1993/cargo-one/assets/12693436/8f65ec7f-bf4f-4adc-9382-1520807a5bd7">
+
+https://github.com/mohsin1993/cargo-one/assets/12693436/584712bc-a48a-484a-a63e-7139e75f5d61
+
 ## How To setup
 
 To get started with this project, follow these steps:
