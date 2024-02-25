@@ -1,0 +1,367 @@
+{
+  "offers": [
+    {
+      "chargeableWeight": 341.4,
+      "createdAt": "1702552385311254",
+      "disclaimers": [],
+      "dropoffLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "earliestAvailabilityTime": "2024-12-17T16:00:00+08:00",
+      "extraFees": [
+        {
+          "calculationRules": "",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "10.00",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "100.00",
+            "currency": "EUR"
+          },
+          "type": "OFFER_EXTRA_FEE_TYPE_SCREENING"
+        }
+      ],
+      "flightSegments": [
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T00:00:00+01:00",
+          "departureTime": "2024-12-16T20:00:00+01:00",
+          "destination": "FRA",
+          "flightNumber": "HANDLING",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "CO 777",
+          "arrivalTime": "2024-12-17T12:00:00+08:00",
+          "departureTime": "2024-12-17T00:00:00+01:00",
+          "destination": "PVG",
+          "flightNumber": "CO1234",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T16:00:00+08:00",
+          "departureTime": "2024-12-17T12:00:00+08:00",
+          "destination": "PVG",
+          "flightNumber": "HANDLING",
+          "origin": "PVG"
+        }
+      ],
+      "hasCargoOnlySegments": false,
+      "id": "4618058c-1dc0-496c-8b17-3b8545ccb081",
+      "latestAcceptanceTime": "2024-12-16T20:00:00+01:00",
+      "legalEntity": "cargo.one Airways Testing Airline",
+      "offerItems": [
+        {
+          "description": "route",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "0.12",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "12.34",
+            "currency": "EUR"
+          }
+        }
+      ],
+      "pickupLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "priceType": "PRICE_TYPE_DYNAMIC",
+      "product": {
+        "carrier": "cargo.one Airways",
+        "label": "",
+        "logoUrl": "https://static-cargo-one.s3.eu-central-1.amazonaws.com/production/Product+Logo+-+cargo.one.png",
+        "product": "C1 General"
+      },
+      "provider": "AIRLINE_PROVIDER_COA",
+      "rank": {
+        "best": 1,
+        "cheapest": 2,
+        "earliest": 2
+      },
+      "serviceLevel": "PROVIDER_SERVICE_LEVEL_GENERAL",
+      "totalPrice": {
+        "amount": "12.34",
+        "currency": "EUR"
+      },
+      "totalPricePerKilo": {
+        "amount": "0.12",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherCharges": {
+        "amount": "112.34",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherChargesPerKilo": {
+        "amount": "0.33",
+        "currency": "EUR"
+      }
+    },
+    {
+      "chargeableWeight": 341.4,
+      "createdAt": "1702552385311254",
+      "disclaimers": [],
+      "dropoffLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "earliestAvailabilityTime": "2024-12-17T16:00:00+08:00",
+      "extraFees": [
+        {
+          "calculationRules": "",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "10.00",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "100.00",
+            "currency": "EUR"
+          },
+          "type": "OFFER_EXTRA_FEE_TYPE_SCREENING"
+        }
+      ],
+      "flightSegments": [
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T00:00:00+01:00",
+          "departureTime": "2024-12-16T20:00:00+01:00",
+          "destination": "FRA",
+          "flightNumber": "HANDLING",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "CO 777",
+          "arrivalTime": "2024-12-17T12:00:00+08:00",
+          "departureTime": "2024-12-17T00:00:00+01:00",
+          "destination": "PVG",
+          "flightNumber": "CO1234",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T16:00:00+08:00",
+          "departureTime": "2024-12-17T12:00:00+08:00",
+          "destination": "PVG",
+          "flightNumber": "HANDLING",
+          "origin": "PVG"
+        }
+      ],
+      "hasCargoOnlySegments": false,
+      "id": "4618058c-1dc0-496c-8b17-3b8545ccb082",
+      "latestAcceptanceTime": "2024-12-16T20:00:00+01:00",
+      "legalEntity": "cargo.one Airways Testing Airline",
+      "offerItems": [
+        {
+          "description": "route",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "0.12",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "12.34",
+            "currency": "EUR"
+          }
+        }
+      ],
+      "pickupLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "priceType": "PRICE_TYPE_DYNAMIC",
+      "product": {
+        "carrier": "cargo.one Airways",
+        "label": "",
+        "logoUrl": "https://static-cargo-one.s3.eu-central-1.amazonaws.com/production/Product+Logo+-+cargo.one.png",
+        "product": "C1 General"
+      },
+      "provider": "AIRLINE_PROVIDER_COA",
+      "rank": {
+        "best": 2,
+        "cheapest": 1,
+        "earliest": 2
+      },
+      "serviceLevel": "PROVIDER_SERVICE_LEVEL_GENERAL",
+      "totalPrice": {
+        "amount": "12.34",
+        "currency": "EUR"
+      },
+      "totalPricePerKilo": {
+        "amount": "0.12",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherCharges": {
+        "amount": "100.34",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherChargesPerKilo": {
+        "amount": "0.33",
+        "currency": "EUR"
+      }
+    },
+    {
+      "chargeableWeight": 341.4,
+      "createdAt": "1702552385311254",
+      "disclaimers": [],
+      "dropoffLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "earliestAvailabilityTime": "2024-12-17T16:00:00+08:00",
+      "extraFees": [
+        {
+          "calculationRules": "",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "10.00",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "100.00",
+            "currency": "EUR"
+          },
+          "type": "OFFER_EXTRA_FEE_TYPE_SCREENING"
+        }
+      ],
+      "flightSegments": [
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T00:00:00+01:00",
+          "departureTime": "2024-12-16T20:00:00+01:00",
+          "destination": "FRA",
+          "flightNumber": "HANDLING",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "CO 777",
+          "arrivalTime": "2024-12-17T12:00:00+08:00",
+          "departureTime": "2024-12-17T00:00:00+01:00",
+          "destination": "PVG",
+          "flightNumber": "CO1234",
+          "origin": "FRA"
+        },
+        {
+          "aircraftType": "HANDLING",
+          "arrivalTime": "2024-12-17T16:00:00+08:00",
+          "departureTime": "2024-12-17T12:00:00+08:00",
+          "destination": "PVG",
+          "flightNumber": "HANDLING",
+          "origin": "PVG"
+        }
+      ],
+      "hasCargoOnlySegments": false,
+      "id": "4618058c-1dc0-496c-8b17-3b8545ccb083",
+      "latestAcceptanceTime": "2024-12-16T20:00:00+01:00",
+      "legalEntity": "cargo.one Airways Testing Airline",
+      "offerItems": [
+        {
+          "description": "route",
+          "isFixedPrice": false,
+          "kiloPrice": {
+            "amount": "0.12",
+            "currency": "EUR"
+          },
+          "lineItemNameKey": "",
+          "lineItemTooltipKey": "",
+          "price": {
+            "amount": "12.34",
+            "currency": "EUR"
+          }
+        }
+      ],
+      "pickupLocation": {
+        "adr_building": "Temporary building",
+        "adr_po_code_city": "Temporary City",
+        "adr_street_number": "Temporary st. number",
+        "code": "",
+        "country": "",
+        "general_email": "",
+        "general_phone": "",
+        "handling_email": "",
+        "handling_phone": ""
+      },
+      "priceType": "PRICE_TYPE_DYNAMIC",
+      "product": {
+        "carrier": "cargo.one Airways",
+        "label": "",
+        "logoUrl": "https://static-cargo-one.s3.eu-central-1.amazonaws.com/production/Product+Logo+-+cargo.one.png",
+        "product": "C1 General"
+      },
+      "provider": "AIRLINE_PROVIDER_COA",
+      "rank": {
+        "best": 2,
+        "cheapest": 2,
+        "earliest": 1
+      },
+      "serviceLevel": "PROVIDER_SERVICE_LEVEL_GENERAL",
+      "totalPrice": {
+        "amount": "12.34",
+        "currency": "EUR"
+      },
+      "totalPricePerKilo": {
+        "amount": "0.12",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherCharges": {
+        "amount": "112.34",
+        "currency": "EUR"
+      },
+      "totalPriceWithOtherChargesPerKilo": {
+        "amount": "0.33",
+        "currency": "EUR"
+      }
+    }
+  ]
+}
